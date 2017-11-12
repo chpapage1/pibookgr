@@ -11,6 +11,13 @@ epidrome:
   uri: "http://www.epidro.me/"
   email: "hi@epidro.me"
   twitter: "@ep1dr0me"
+# 
+chpapage:
+  name: "Chara Papageorgiou"
+  siterole: "student, teacher, developer"
+  uri: "your home page"
+  email: "charapapageorgiou1@gmail.com"
+  twitter: "@your twitter account"
 #
 nickkouk:
   name: "Nikolaos Kouklas"
