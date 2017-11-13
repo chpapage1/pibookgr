@@ -1,5 +1,5 @@
 ---
-image_url: 'header.jpg'
+image_url: 'images/header.jpg'
 license_url:
 license_text:
 ---
