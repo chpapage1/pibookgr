@@ -7,4 +7,3 @@ categories:
   - tools
 ---
 
-{% include gallery %}
