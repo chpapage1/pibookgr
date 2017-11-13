@@ -4,7 +4,7 @@ header:
   image_fullwidth: 'header.jpg'
 widget-1:
   title: Βιογραφίες
-  url: pibookgr/biography/
+  url: biography/
 widget-2:
   title: Εικόνες
   url: /gallery/
