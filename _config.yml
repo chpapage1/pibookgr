@@ -34,7 +34,7 @@ collections:
     permalink: /biography/:path/
   case-study:
     output: true
-    permalink: /case-study/:path/
+    permalink: pibookgr/case-study/:path/
   gallery:
     output: true
     permalink: pibookgr/gallery/:path/
